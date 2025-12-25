@@ -1,0 +1,7 @@
+<suite name="Travel Suite">
+    <test name="Flight Test">
+        <classes>
+            <class name="tests.FlightSearchTest"/>
+        </classes>
+    </test>
+</suite>
